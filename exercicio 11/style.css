@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #252525;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .mapa-site {
+    max-width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #eeeeee;
+    border-radius: 20px;
+  }
+  
+  
+  .lista-site li {
+    margin-bottom: 15px;
+  }
+  
+  .lista-site a {
+    text-decoration: none;
+    color: #4b4b4b;
+  }
+  
+  .lista-site ul {
+    text-indent: 5px;  /*text ident serve para criar um espaçamento vazio, aqui ela cria um espaçamento de 5px*/
+  }
+  
